@@ -205,11 +205,4 @@ Cerrar sesión y volver a entrar.
 
 ---
 
-## ✍️ Autor
-
-Guía creada como material de aprendizaje práctico para desarrollo web y despliegue con Docker.
-
----
-
-🚀 Happy Dockering
 
