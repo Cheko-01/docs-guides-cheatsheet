@@ -1,11 +1,11 @@
 ## Amor entre líneas
-Cúrame tiempo, fue mi refugio,
+Cúra{me} tiempo, fue mi refugio,
 ese lugar para perderme, pero
 a la vez, para encontrarme y volver a conocerme
 fue amor a primera vista, sus versos me 
 erizaban la piel.
 
-Más que una compañia, fue mi alida
+Más que una compañía, fue mi aliada
 de confianza, ese alivio que sentía,
 al llegar a mi casa y abrir ese libro,
 mis ojos brillaban de ilusión...
